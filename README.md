@@ -48,15 +48,6 @@ This project uses **Google Books API** to fetch:
 
 ---
 
-## 📱 Screens
-
-- Home / Search screen  
-- Book Details screen  
-- Loading state  
-- Error state  
-
----
-
 ## ✅ Requirements Covered
 
 - React Native app using **Expo**
@@ -74,3 +65,4 @@ This project uses **Google Books API** to fetch:
 ```bash
 git clone <your-repo-url>
 cd <your-project-folder>
+
