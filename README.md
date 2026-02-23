@@ -61,8 +61,7 @@ This project uses **Google Books API** to fetch:
 
 ## ⚙️ Installation & Run
 
-### 1) Clone the repo
-```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+### 1)run project
+npx expo start
+
 
